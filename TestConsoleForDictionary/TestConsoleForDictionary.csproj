@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A6B5FB8-D524-4236-83C1-0B2474C64036}</ProjectGuid>
+    <ProjectGuid>{F631DAAF-2FB5-470D-90EB-37BF3BA74282}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ChallengeThree</RootNamespace>
-    <AssemblyName>ChallengeThree</AssemblyName>
+    <RootNamespace>TestConsoleForDictionary</RootNamespace>
+    <AssemblyName>TestConsoleForDictionary</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="ProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

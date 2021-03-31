@@ -1,0 +1,10 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\bin\Debug\ChallengeThree.exe.config
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\bin\Debug\ChallengeThree.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\bin\Debug\ChallengeThree.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\bin\Debug\ChallengeThreeRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\bin\Debug\ChallengeThreeRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\obj\Debug\ChallengeThree.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\obj\Debug\ChallengeThree.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\obj\Debug\ChallengeThree.csproj.CopyComplete
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\obj\Debug\ChallengeThree.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThree\obj\Debug\ChallengeThree.pdb

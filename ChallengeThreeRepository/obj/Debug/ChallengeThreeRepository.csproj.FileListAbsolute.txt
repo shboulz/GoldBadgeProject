@@ -1,0 +1,9 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\bin\Debug\ChallengeThreeRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\bin\Debug\ChallengeThreeRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\obj\Debug\ChallengeThreeRepository.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\obj\Debug\ChallengeThreeRepository.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\obj\Debug\ChallengeThreeRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\obj\Debug\ChallengeThreeRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\bin\Debug\ChallengeTwoRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\bin\Debug\ChallengeTwoRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeThreeRepository\obj\Debug\ChallengeThreeRepository.csproj.CopyComplete

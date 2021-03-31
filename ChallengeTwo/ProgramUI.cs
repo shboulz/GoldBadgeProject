@@ -140,7 +140,7 @@ namespace ChallengeTwo
         {
             Console.Clear();
 
-            Claim claimContent = _claimRepo.TakeCareOfNextClaim();
+            Claim claimContent = _claimRepo.NextClaimInQueue();
 
             Console.WriteLine($"ClaimID: {claimContent.ClaimID}\n" +
                 $"Type: {claimContent.ClaimType}\n" +

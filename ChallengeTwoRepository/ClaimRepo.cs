@@ -21,7 +21,7 @@ namespace ChallengeTwoRepository
         {
             return _claimDirectory;
         }
-        public Claim TakeCareOfNextClaim()
+        public Claim NextClaimInQueue()
         {
             return _claimDirectory.Peek();
         }
@@ -40,7 +40,7 @@ namespace ChallengeTwoRepository
 
        public bool PullClaim()
         {
-            Claim claimContent = TakeCareOfNextClaim();
+            Claim claimContent = NextClaimInQueue();
             if (claimContent == null)
             {
                 return false;

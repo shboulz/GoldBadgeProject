@@ -1,0 +1,10 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\bin\Debug\TestConsoleForDictionary.exe.config
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\bin\Debug\TestConsoleForDictionary.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\bin\Debug\TestConsoleForDictionary.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\bin\Debug\ChallengeThreeRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\bin\Debug\ChallengeThreeRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\obj\Debug\TestConsoleForDictionary.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\obj\Debug\TestConsoleForDictionary.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\obj\Debug\TestConsoleForDictionary.csproj.CopyComplete
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\obj\Debug\TestConsoleForDictionary.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\TestConsoleForDictionary\obj\Debug\TestConsoleForDictionary.pdb
