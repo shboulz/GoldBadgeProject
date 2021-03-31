@@ -1,0 +1,10 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\bin\Debug\ChallengeTwo.exe.config
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\bin\Debug\ChallengeTwo.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\bin\Debug\ChallengeTwo.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\obj\Debug\ChallengeTwo.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\obj\Debug\ChallengeTwo.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\obj\Debug\ChallengeTwo.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\obj\Debug\ChallengeTwo.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\bin\Debug\ChallengeTwoRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\bin\Debug\ChallengeTwoRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwo\obj\Debug\ChallengeTwo.csproj.CopyComplete

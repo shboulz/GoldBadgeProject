@@ -1,0 +1,10 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\obj\Debug\ChallengeOne.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\obj\Debug\ChallengeOne.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\bin\Debug\ChallengeOne.exe.config
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\bin\Debug\ChallengeOne.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\bin\Debug\ChallengeOne.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\bin\Debug\ChallengeOneRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\bin\Debug\ChallengeOneRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\obj\Debug\ChallengeOne.csproj.CopyComplete
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\obj\Debug\ChallengeOne.exe
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeOne\obj\Debug\ChallengeOne.pdb

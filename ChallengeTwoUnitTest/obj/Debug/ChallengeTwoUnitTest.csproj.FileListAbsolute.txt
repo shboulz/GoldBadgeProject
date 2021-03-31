@@ -1,0 +1,16 @@
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoUnitTest.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoUnitTest.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoRepository.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoRepository.pdb
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csprojAssemblyReference.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csproj.CoreCompileInputs.cache
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csproj.CopyComplete
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.dll
+D:\GoldBadgeProject\GoldBadgeChallenges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.pdb
