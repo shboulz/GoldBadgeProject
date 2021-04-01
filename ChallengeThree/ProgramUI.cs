@@ -100,10 +100,18 @@ namespace ChallengeThree
 
         private void EditABadge()
         {
-            Console.Clear();
             
-            Console.WriteLine("What is the badge number to update? ");
+            Console.Clear();
+
+            foreach (KeyValuePair<int, Badge> badgeContent in _badgeRepo.ShowAllBadges())
+            {
+                ShowBadgeDetails(badgeContent);
+            }
+            
+
+            Console.WriteLine("What is the badge Key to update? ");
             int userInput = int.Parse(Console.ReadLine());
+            
             Badge badgeWithUpdatedInfo = new Badge();
 
             bool addNewDoorAccess = false;
@@ -114,9 +122,10 @@ namespace ChallengeThree
                 string userAnswer = Console.ReadLine().ToLower();
                 if (userAnswer == "yes")
                 {
-                    Console.WriteLine("Type from the following door codes below\n" +
+                    Console.WriteLine("Type from the following door codes below,\n" +
                         "............................................................\n" +
-                        "(A1, A2, A3, A4, A5, A6, A7)-(B1, B2, B3, B4, B5, B6, B7)");
+                        "(A1, A2, A3, A4, A5, A6, A7)-(B1, B2, B3, B4, B5, B6, B7)\n" +
+                        "To remove a door leave blank.");
                     string userInputDoorAccess = Console.ReadLine().ToUpper();
                     ListOfDoors.Add(userInputDoorAccess);
 
@@ -138,8 +147,11 @@ namespace ChallengeThree
                 Console.WriteLine("Failed");
             }
             Console.ReadKey();
+            Console.Clear();
 
         }
+
+        
 
         private void ListAllBadges()
         {
@@ -149,6 +161,7 @@ namespace ChallengeThree
                 ShowBadgeDetails(badgeContent);
             }
             Console.ReadKey();
+            Console.Clear();
         }
 
         private void ShowBadgeDetails(KeyValuePair<int, Badge> badgeContent)
