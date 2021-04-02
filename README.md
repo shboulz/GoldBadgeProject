@@ -9,4 +9,4 @@ User Menu includes the following options
 Methods used 
 1. AddNewMenuItem - is adding user created meals and adding them to the menu constructor that was created in our menu class. it is also auto-assigning meal numbers by 1 for each new meal that was created.
 2. List<Menu> GetMenu - is bringing all the information that we stored in the Menu list that we created in the Repo under List<Menu> _menuDatabase. displaying it every time GetMenu is being called.
-3. GetMealByNumber - 
+3. GetMealByNumber - is comparing assigned Meal Number to input number and if the result comes back matching one in the _menuDatabase list it will display that meal combo. if user inputs a non-existing meal number it wont bring up anything.
