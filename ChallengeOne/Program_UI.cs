@@ -129,7 +129,7 @@ namespace ChallengeOne
                 $"Meal Discription: {menu.MealDiscription}\n" +
                 $"Meal Price: {menu.MealPrice}");
             ShowIngredients(menu.Ingredients);
-            
+            Console.WriteLine("..............................................................................................");
             
         }
 
