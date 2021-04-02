@@ -111,6 +111,7 @@ namespace ChallengeTwo
         {
             Console.Clear();
             ShowClaimData();
+            
             Console.ReadKey();
         }
 
@@ -120,19 +121,26 @@ namespace ChallengeTwo
             foreach (Claim claimContent in claims)
             {
                 ShowClaimDetails(claimContent);
-                Console.WriteLine("...............................");
+                Console.WriteLine("........................................................................................................................");
             }
         }
 
         private void ShowClaimDetails (Claim claimContent)
         {
-            Console.WriteLine($"ClaimID: {claimContent.ClaimID}\n" +
+            Console.WriteLine("{0,-10} {1,-10} {2,-10} {3,-10} {4,-10} {5,27} {6,28}\n", "ClaimID", "Type", "Description", "Amount", "DateOfAccident", "DateOfClaim", "IsValid");
+            
+            Console.WriteLine("{0,-10} {1,-10} {2,-10} {3,-10} {4,20} {5,30} {6,18:N1}", Convert.ToString(claimContent.ClaimID), Convert.ToString(claimContent.ClaimType), Convert.ToString(claimContent.Description), Convert.ToString(claimContent.ClaimAmount), Convert.ToString(claimContent.DateOfIncident), Convert.ToString(claimContent.DateOfClaim), Convert.ToString(claimContent.IsValidWithinTimeFrame));
+
+            //Commented this out to implement a different format this is the best i could do this time at night. however picked up StringBuilder knowledge. will improve on this 
+            // if you want the old style menu just uncomment below and comment the lines above. it should look better however tried to get it to look like the example.
+            /*Console.WriteLine($"ClaimID: {claimContent.ClaimID}\n" +
                 $"Type: {claimContent.ClaimType}\n" +
                 $"Description: {claimContent.Description}\n" +
                 $"Amount: {claimContent.ClaimAmount}\n" +
                 $"DateOfAccident: {claimContent.DateOfIncident}\n" +
                 $"DateOfClaim: {claimContent.DateOfClaim}\n" +
-                $"IsValid: {claimContent.IsValidWithinTimeFrame}");
+                $"IsValid: {claimContent.IsValidWithinTimeFrame}");*/
+
         }
 
 
